@@ -23,3 +23,10 @@ networks(CNN) to build an image classification model which will learn to disting
 
 ### Tools & Skills: 
 Python - Keras, Tensorflow, Convolutional Neural Networks.
+
+
+![Screenshot (93)](https://user-images.githubusercontent.com/48867032/94597749-935de700-02ab-11eb-8136-e942da5b43b3.png)
+
+
+
+![Screenshot (94)](https://user-images.githubusercontent.com/48867032/94597775-9bb62200-02ab-11eb-9336-6e251c85af77.png)
